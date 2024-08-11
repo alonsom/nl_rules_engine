@@ -20,11 +20,11 @@ All executables has the following dependency:
 - SWI Prolog: https://www.swi-prolog.org/
 If you are installing SWI-Prolog in Windows, please select one of the system PATH options.
 
-## Install Instructions (Windows)
+## Install Instructions
 - Install SWI Prolog
-- Checkout/download the **rules_server_no_console.exe** executable.
-- Run the executable **rules_server_no_console.exe**
-  The Prolog console should appear. You might get an antivirus warning the first time you run this command (you could run the antivirus on the file to confirm does not contain a virus).
+- Check out/download the appropriate executable for your platform to your host.  (e.g. **rules_server_no_console.exe** for Windows).
+- Run the executable
+  The Prolog console should appear. You might get an antivirus warning in Windows the first time you run this command (you could run the antivirus on the file to confirm does not contain a virus).
 - Enter **startServer.** in the Prolog console.
   The message **% Started server at https://localhost:10000/** will be displayed
 - To stop the server enter **server:stop(10000).** and then **halt.**
