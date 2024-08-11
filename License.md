@@ -22,8 +22,8 @@ conditions set forth below, the parties agree as follows:
 1.1. Subject to the terms and conditions of this Agreement, including receipt and acceptance by Ideasol Australia of an
 order submitted on-line by Company (“Order”), Ideasol Australia grants to Company a no-charge, nonexclusive and
 nontransferable limited license to use the Ideasol Australia software covered by the Order and its accompanying
-documentation (together, referred to herein as “Software”) for Company’s internal business requirements,
-during the license term set forth in the Order. The Software is licensed on a limited number of users and/or
+documentation (together, referred to herein as “Software”) for Company’s internal business requirements.
+The Software is licensed on a limited number of users and/or
 other use bases, as set forth in Order. “Users,” as used here, means an individual Company employee
 installing or using the Software. When an individual installs or uses the Software on multiple devices, each
 such installation or use shall be associated with that one User; and when multiple individuals use the Software
@@ -33,7 +33,7 @@ Users with access to the functionalities and content available through the Softw
 Users to download Applications for use with the Server components, to access the functionalities and content
 available through the Applications, in each case, during the license term and not exceeding the authorized
 number of Users. UNDER THIS NO CHARGE LICENSE, THE AUTHORIZED NUMBER OF USERS IS
-LIMITED TO FOURTEEN (10) USERS AND IN NO EVENT MAY THE NUMBER OF USERS EXCEED THE
+LIMITED TO TEN (10) USERS AND IN NO EVENT MAY THE NUMBER OF USERS EXCEED THE
 AUTHORIZED NUMBER.
 1.2. The Software is licensed, not sold, and this Agreement grants only certain rights to use the Software. This
 license transfers to Company neither title nor any proprietary or intellectual property rights to the Software,
@@ -53,7 +53,7 @@ documentation may be made by Company for its own internal needs. All copies of t
 documentation will be subject to the terms and conditions of this Agreement. Whenever Company is permitted
 to copy or reproduce all or any part of the Software or documentation, all titles, trademark symbols, copyright
 symbols and legends, and other proprietary markings must also be reproduced.
-2. License Restrictions
+3. License Restrictions
 Except as expressly permitted in this Agreement, Company may not itself or through any party: (i) sell,
 sublicense, transfer, disclose, make available to, or permit use of the Software by any third party; (ii) translate,
 adapt, circumvent any technical protection or enable any limited or disabled functionality; (iii) decompile,
@@ -64,7 +64,7 @@ by Company to a third party library to the extent this right is required by the 
 Confidential Information; (v) use the Software other than in accordance with the authorization contained
 herein; or (vi) use the Software or part thereof to provide application hosting, outsourcing, testing, or similar
 services to any party.
-3. No-Charge License
+4. No-Charge License
 The license granted to Company hereunder is a no-charge license. However, if the Company exceeds the license granted
 in this Agreement, including by exceeding the permitted number of Users, Ideasol Australia may suspend the Company’s
 access to and use of the Software. These remedies are without prejudice to any other remedies available to Ideasol Australia at law or equity or under this Agreement.
@@ -78,8 +78,7 @@ equal force and effect to such changes. Such changes may be used by Company unde
 contained herein solely for use with the Software.
 6. Permission to Collect and Use Information
 5.1. Ideasol Australia may collect information from and about Users to help us support and improve the Software and our
-other products and services, for license enforcement, and for other business purposes. Ideasol Australia may use the information to suggest compliance
-solutions. This is one reason that we offer the Software at no charge and access to this information is partial
+other products and services, for license enforcement, and for other business purposes. Ideasol Australia may use the information to suggest compliance solutions. This is one reason that we offer the Software at no charge and access to this information is partial
 consideration for use of the Software. If applicable law, Company policy, or other requirements require that
 Users be informed of or consent to the collection, use, and/or handling of information as described in this
 Section, or that any other steps be taken, these are the sole responsibility of Company and Company may not
@@ -159,8 +158,7 @@ expiration or termination of this Agreement for any reason. In the event of actu
 Section, Ideasol Australia will have no adequate remedy at law and will be entitled to immediate injunctive and other
 equitable relief, without bond and without the necessity of showing actual money damages.
 9. Term and Termination
-8.1. This Agreement will take effect on the Effective Date and will remain in force for the license term set forth in
-the Order, unless earlier terminated in accordance with this Agreement.
+8.1. This Agreement will take effect on the day the first executable is downloaded/check out from the project.
 8.2. Ideasol Australia may, by written notice to Company, terminate this Agreement if any of the following events
 ("Termination Events") occur: (i) Company is in material breach of any term, condition or provision of this
 Agreement, which breach, if capable of being cured, is not cured within five (5) days after Ideasol Australia gives
@@ -206,8 +204,7 @@ exercise or enforcement by either party of any right or remedy under this Agreem
 under Section 8, will preclude the enforcement by such party of any other right or remedy under this Agreement
 or that such party is entitled by law to enforce. The Software is subject to United States export laws and
 regulations. Company may not export or re-export the Software or any technology received from Ideasol Australia
-without the necessary and appropriate United States and other applicable government licenses. The
+without the necessary and appropriate Australian and other applicable government licenses. The
 provisions of Sections 2, 5, 6, 7, 8.4, 9, and 10 will survive expiration or termination of this Agreement for any
 reason.
 10.3. This Agreement will be governed by and construed in accordance with the laws of Australia.
-This Agreement is made and is effective as of the Effective Date.
