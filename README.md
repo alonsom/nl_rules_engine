@@ -23,7 +23,7 @@ If you are installing SWI-Prolog in Windows, please select one of the system PAT
 ## Install Instructions
 - Install SWI Prolog
 - Check out/download the appropriate executable (e.g. **rules_server_no_console.exe** for Windows) and corresponding compressed file for your platform to your host from the latest release in this project [nl-rules-engine-latest](https://github.com/alonsom/releases/tag/Freemium)
-- Unsip/uncompress the files and place the executable in the folder containing the certificates sub-folder (it contains a self-signed certificate)
+- Unsip/uncompress the associated files and place the executable in the folder with the certificates sub-folder (it contains a self-signed certificate)
 - Run the executable
   The Prolog console should appear. You might get an antivirus warning in Windows the first time you run this command (you could run the antivirus on the file to confirm does not contain a virus).
 - Enter **startServer.** in the Prolog console.
