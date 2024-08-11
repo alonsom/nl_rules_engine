@@ -1,5 +1,5 @@
 **OpenIntelligence Natural Language Interface Rules Server 1.0 (Fremium version)**
-Copyright (C) 2022 Ideasol Australia Pty Ltd (trading as OpenIntelligence). All Rights Reserved. 
+Copyright (C) 2024 Ideasol Australia Pty Ltd (trading as OpenIntelligence). All Rights Reserved. 
 
 ## Introduction
 Welcome to the OpenIntelligence Natural Language Interface for Splunk.
@@ -9,7 +9,7 @@ This repo contains the freemium version of the Open Intelligence Natural Languag
 ## Versions and Licenses
 OpenIntelligence currently offers four different Rest API/SW licenses:
 - ** Freemium Licence ** provides access to an executable with a limited version of the Rest API. This is the license that applies to this project.
-- ** Trial Licence ** provides temporary access to our own Rules Engine development instance the Rest API of our . This license is for evaluation purposes only and has a limit on the number of daily queries.
+- ** Trial Licence ** provides temporary access to our own Rules Engine development instance the Rest API of our . This license is for evaluation purposes only and also has a limit on the number of daily queries.
 - ** Shared Production License ** provides access to the Rest API of our shared Rules Engine Production instance and includes OpenIntelligence standard support. 
 - ** A Custom Production Licence ** provides access to a dedicated and customized Rules Engine Production instance with several hosting and support options.
 Please contact us at info@openintelligence.com.au for more details and how to request any of these licences.
