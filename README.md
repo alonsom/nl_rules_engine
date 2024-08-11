@@ -22,7 +22,7 @@ If you are installing SWI-Prolog in Windows, please select one of the system PAT
 
 ## Install Instructions
 - Install SWI Prolog
-- Check out/download the appropriate executable for your platform to your host.  (e.g. **rules_server_no_console.exe** for Windows).
+- Check out/download the appropriate executable for your platform to your host from the latest release in this project (e.g. **rules_server_no_console.exe** for Windows).
 - Run the executable
   The Prolog console should appear. You might get an antivirus warning in Windows the first time you run this command (you could run the antivirus on the file to confirm does not contain a virus).
 - Enter **startServer.** in the Prolog console.
