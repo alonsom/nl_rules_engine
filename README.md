@@ -8,16 +8,17 @@ This repo contains the freemium version of the Open Intelligence Natural Languag
 
 ## Versions and Licenses
 OpenIntelligence currently offers four different Rest API/SW licenses:
-- ** Freemium Licence ** provides access to an executable with a limited version of the Rest API. This is the license that applies to this project.
+- ** Freemium Licence ** provides access to an executable with a limited version of the Rest API. This is the license that applies to this project. Full license details can be found in the License file.
 - ** Trial Licence ** provides temporary access to our own Rules Engine development instance the Rest API of our . This license is for evaluation purposes only and also has a limit on the number of daily queries.
 - ** Shared Production License ** provides access to the Rest API of our shared Rules Engine Production instance and includes OpenIntelligence standard support. 
 - ** A Custom Production Licence ** provides access to a dedicated and customized Rules Engine Production instance with several hosting and support options.
-Please contact us at info@openintelligence.com.au for more details and how to request any of these licences.
+
+Please contact us at info@openintelligence.com.au for more details and how to request access to the Trial, Shared and Custom Production licenses.
 
 ## Dependencies
 All executables has the following dependency:
 - SWI Prolog: https://www.swi-prolog.org/
-If you installing SWI-Prolog in Windows, please select one of the system PATH options.
+If you are installing SWI-Prolog in Windows, please select one of the system PATH options.
 
 ## Install Instructions (Windows)
 - Install SWI Prolog
