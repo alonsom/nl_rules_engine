@@ -4,7 +4,7 @@ Copyright (C) 2024 Ideasol Australia Pty Ltd (trading as OpenIntelligence). All 
 ## Introduction
 Welcome to the OpenIntelligence Natural Language Interface for Splunk.
 Our natural language interface allows both novice and experienced Splunk users to search for information or define complex correlation rules in their own language. 
-This repo contains the freemium version of the Open Intelligence Natural Language Rules Server. The rules server hosts most of the intelligence of the system and exposes the rest of the API used by the NL Interface Splunk app. We also offer trial, shared and custom production licences in a self-hosted instance of this rules server (see below).
+This repo contains the freemium version of the Open Intelligence Natural Language Rules Server. The rules server hosts most of the intelligence of the system and exposes the rest of the API used by the NL Interface Splunk app. We also offer trial, shared and custom production licences in a self-hosted instance of this rules server (see below). We also have available a docker image for this server.
 
 ## Versions and Licenses
 OpenIntelligence currently offers four different Rest API/SW licenses:
